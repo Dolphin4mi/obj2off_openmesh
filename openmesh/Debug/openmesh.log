@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\temp\openmesh\openmesh\Source.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+D:\temp\openmesh\openmesh\Source.cpp(95,14): warning C4101: 'offname': unreferenced local variable
+  openmesh.vcxproj -> D:\temp\openmesh\Debug\openmesh.exe
